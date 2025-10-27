@@ -1,3 +1,4 @@
+test
 # ClickHouseMigrator
 
 Help to migrate data to ClickHouse, create database and table auto.
